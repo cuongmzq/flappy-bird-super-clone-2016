@@ -1,0 +1,2 @@
+Score: 1
+Hi_Score: 5
